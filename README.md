@@ -6,7 +6,9 @@ The server directory contains all the files related to the backend of your appli
 
 ## ![Backend Structure](/images/backend-structure.png "MERN Stack Backend Folder Layout")
 
-![Backend API Structure Diagram](https://via.placeholder.com/600x300?text=API+Folder+Structure)
+![Uploading structure.jpg…]()
+![Uploading image.png…]()
+
 
 ## `config/`
 
